@@ -1,0 +1,6 @@
+#bear:hover #left-ear,
+#bear:hover #right-ear {
+transform: translateY(-10px);
+transform-origin:
+transition:
+}
